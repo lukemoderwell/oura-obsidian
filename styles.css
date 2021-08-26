@@ -1,4 +1,12 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+/* Set vars similar to night-owl */
+
+/* main content pane */
+/* .workspace-leaf-content .view-content{
+    background-color: #001628 !important;
+    color: #6d889e34;
 }
+
+/* side bar */
+/* .workspace-tabs {
+    background-color:#000B13 !important;
+} */
